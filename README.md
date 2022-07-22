@@ -1,2 +1,8 @@
 # Third-Template
-My Third Template I created using HTML / CSS
+My Third front-end Template I created.
+
+## Stack Used
+
+HTML / CSS
+
+[Live Demo of the project Click Here](https://third-template-html-css.netlify.app/)
